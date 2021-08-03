@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Kodchasan:wght@400;600;700&display=swap");
+body {
+    font-family: "kodchasan";
+    background: url(images/fondo\ tienda.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
